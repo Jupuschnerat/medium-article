@@ -23,7 +23,7 @@ a {
 }
 
 .banner {
-  background-image: url("http://unsplash.it/1000/500");
+  background-image: url("./images/startbild.jpg");
   background-size: cover;
   color: white;
   padding: 120px 0;
