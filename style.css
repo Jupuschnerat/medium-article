@@ -23,7 +23,7 @@ a {
 }
 
 .banner {
-  background-image: url("http://unsplash.it/1000/500");
+  background-image: url('https://www.mit-friedrichshain-kreuzberg.de/image/templates/onepager06/startbild.jpg');
   background-size: cover;
   color: white;
   padding: 120px 0;
